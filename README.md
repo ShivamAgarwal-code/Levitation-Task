@@ -36,7 +36,7 @@
 
 ## Demo
 
-Visit the [live demo](https://invoify.vercel.app) to see Invoify in action.
+Visit the [live demo](https://levitation-mern-task.vercel.app/) to see Invoify in action.
 
 ## Getting Started
 
